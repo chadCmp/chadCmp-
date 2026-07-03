@@ -58,3 +58,12 @@ Highly disciplined operational leader and security practitioner with a Bachelor 
 ## Career Milestones & Historical Trust Metrics
 * **Early Infrastructure Administration (Y2K Era)**: Selected for trusted hardware deployment and asset distribution duties within state corrections facilities under the direction of the Principal IT Systems Administrator (Toan). Maintained physical responsibility for the transportation, imaging (Symantec Ghost), and setup of administration-level workstations.
 * **Academic Foundation**: Completed a Bachelor of Science Degree in Information Assurance, mastering data confidentiality, structural system integrity, and asset availability standards.
+* ## 🚀 Featured Open-Source Contribution
+
+### [Official Armitage Framework Feature](https://facebook.com)
+
+> Verifiable open-source project feature highlighting early-stage tactical console validation and community engagement with the Armitage graphical cyber attack management platform. Demonstrates a native, foundational understanding of core exploitation architectures, offensive frameworks, and target virtualization protocols.
+
+* **Framework Context:** Armitage is a graphical cyber attack management tool for the Metasploit Framework that visualizes targets and recommends exploits. 
+* **Significance:** This feature validates long-standing, hands-on engagement with tactical offensive security tooling, serving as the foundational baseline for engineering high-fidelity defensive controls and enterprise SIEM optimizations.
+
