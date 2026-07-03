@@ -37,8 +37,7 @@ To verify my hands-on competencies in network threat analysis, diagnostics, and 
 * **Operational Leadership:** Crisis Management, High-Accountability Team Leadership, Process Optimization, Risk Mitigation, Cross-Functional Communication.
 
 ---
+ 📬 Let's Connect
 
-## 📬 Let's Connect
-
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **Email:** [Your Email Address Here]
+* **LinkedIn:** https://www.linkedin.com/in/chad-purcey-2b725a270
+* **Email:** chadcmp1@gmail.com
